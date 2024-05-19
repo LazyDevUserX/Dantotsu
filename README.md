@@ -13,9 +13,6 @@ Dantotsu is an [Anilist](https://anilist.co/) only client.
 
 > **Dantotsu (断トツ; Dan-totsu)** literally means "the best of the best" in Japanese. Try it out for yourself and be the judge!
 
-
-### 🚀 STAR THIS REPOSITORY TO SUPPORT THE DEVELOPER AND ENCOURAGE THE DEVELOPMENT OF THE APPLICATION!
-
 ## WANT TO CONTRIBUTE? 🤝
 
 All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports. Please use GitHub to its fullest; contribute Pull Requests, contribute tutorials or other content - whatever you have to offer, we can use!
