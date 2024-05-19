@@ -13,6 +13,7 @@ Dantotsu is an [Anilist](https://anilist.co/) only client.
 
 > **Dantotsu (断トツ; Dan-totsu)** literally means "the best of the best" in Japanese. Try it out for yourself and be the judge!
 
+
 ### 🚀 STAR THIS REPOSITORY TO SUPPORT THE DEVELOPER AND ENCOURAGE THE DEVELOPMENT OF THE APPLICATION!
 
 ## WANT TO CONTRIBUTE? 🤝
